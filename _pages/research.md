@@ -8,11 +8,10 @@ permalink: http://ahadavand.com/research/
 published: true
 post_date: 2016-02-07 17:52:36
 ---
-[section_title text="Work in Progress"]
+<!-- [section_title text="Work in Progress"] -->
 
-### Work in Progress
-
-**Analysis of Student Progress in Online Courses**, with *Jeff Leek* [yahoo][9]
+## Work in Progress
+---
 
 **Analysis of Student Progress in Online Courses**, with Jeff Leek
 
@@ -20,7 +19,8 @@ post_date: 2016-02-07 17:52:36
 
 **Misperception of Body Size as Motivated Belief**, with Antonio Trujillo
 
-[section_title text="Working Papers"]
+<!--[section_title text="Working Papers"] -->
+## Pre-prints
 
 **Anatomy of Income Inequality in the United States: 1979-2013**, [Job Market Paper][1]
 
