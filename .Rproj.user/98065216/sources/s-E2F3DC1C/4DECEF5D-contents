@@ -11,7 +11,7 @@ post_date: 2016-02-07 17:52:36
 [section_title text="Work in Progress"]
 
 ## Work in Progress
-- **Analysis of Student Progress in Online Courses**, with *Jeff Leek* [yahoo](www.yahoo.com)
+- **Analysis of Student Progress in Online Courses**, with *Jeff Leek* [yahoo][9]
 
 **Analysis of Student Progress in Online Courses**, with Jeff Leek
 
@@ -61,3 +61,4 @@ post_date: 2016-02-07 17:52:36
  [6]: http://ssrn.com/abstract=3079711
  [7]: https://github.com/jhudsl/crsra
  [8]: http://www.sciencedirect.com/science/article/pii/S1385894707007693
+ [9]: https://www.yahoo.com
