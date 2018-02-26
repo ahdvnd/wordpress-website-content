@@ -42,9 +42,9 @@ Here is a brief example of a multiple choice question in a quiz. The correct ans
 {quiz, id: quiz1}
 ? How many letters are in the word Markua?
 
-a) 5 \\
-B) 6 \\
-c) 7 \\
+a) 5
+B) 6
+c) 7
 {/quiz}
 
 Here is an example of a question where the student types their answer. You indicate the answer by typing `!` and then a space, and then the answer.
