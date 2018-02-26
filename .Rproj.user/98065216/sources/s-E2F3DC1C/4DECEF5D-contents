@@ -10,8 +10,9 @@ post_date: 2016-02-07 17:52:36
 ---
 [section_title text="Work in Progress"]
 
-## Work in Progress
-- **Analysis of Student Progress in Online Courses**, with *Jeff Leek* [yahoo][9]
+### Work in Progress
+
+**Analysis of Student Progress in Online Courses**, with *Jeff Leek* [yahoo][9]
 
 **Analysis of Student Progress in Online Courses**, with Jeff Leek
 
