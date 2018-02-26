@@ -11,6 +11,7 @@ post_date: 2016-02-07 17:52:36
 <!-- [section_title text="Work in Progress"] -->
 
 ## Work in Progress
+***
 
 Analysis of Student Progress in Online Courses, *with Jeff Leek*
 
@@ -19,7 +20,7 @@ Comparison of Plotting System Outputs in Beginner Analysts, *with Leslie Myint, 
 Misperception of Body Size as Motivated Belief, *with Antonio Trujillo*
 
 <!--[section_title text="Working Papers"] -->
-***
+
 ## Pre-prints
 ***
 
