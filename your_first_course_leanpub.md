@@ -10,7 +10,7 @@ What is good about Leanpub and Leancourses is that creating a book or couses is 
 
 Assuming you have authoring access on your Leanpub account, you can click on your account and choose Courses under Author like below.
 
-[Courses](./img/leanpub_courses/00_courses.png)
+![Courses](./img/leanpub_courses/00_courses.png)
 
 In the following page, click on "Create another Course" which then opens a new page where you should enter course information such as the title, url, etc. You need to enter the following information:
 - Choose a title
@@ -29,7 +29,6 @@ You can find more information on creating a course or MOOC [here](https://leanpu
 ## Linking to Dropbox or Github
 
 If you're using Dropbox or GitHub, create the file in the `manuscript` folder for this course. Then open the `Book.txt` file you'll find in the `manuscript` folder, and type in the name of your new file, including its file extension (like the `.txt` in `Book.txt`) **on a line by itself**. That way, the next time you create a preview of your course, the new file will be included.
-
 
 
 ## Quiz Example
