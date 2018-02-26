@@ -20,7 +20,9 @@ post_date: 2016-02-07 17:52:36
 **Misperception of Body Size as Motivated Belief**, with Antonio Trujillo
 
 <!--[section_title text="Working Papers"] -->
+***
 ## Pre-prints
+***
 
 **Anatomy of Income Inequality in the United States: 1979-2013**, [Job Market Paper][1]
 
@@ -36,17 +38,23 @@ post_date: 2016-02-07 17:52:36
 
 **The Impact of the Internet on Economic Growth in Upper-Middle-Income Countries**, Master’s Thesis, Department of Economics, Texas Tech University, <a href="http://archive.southernecon.org/sea2011/User/ProgramParticipantSessions.php_AuthorID=5004.html" target="_blank" rel="noopener">Presented at Southern Economic Association</a> (November 2011)
 
-[section_title text="Software"]
+<!--[section_title text="Software"] -->
+***
+## Software
+***
 
 **crsra: A package for cleaning and analyzing Coursera on-demand data**, with Jeff Leek ([Github Repo][7])
 
-[section_title text="Non-Academic Publications"]
+<!--[section_title text="Non-Academic Publications"]
 
 **Immigration Reform: STEM Legislation Would Give US Economy a Much Needed Boost**, (with Shahin Kaveh), PolicyMic.com (December 2011)
 
-**Why We Can't Cut Government Funding For Our Schools**, PolicyMic.com (January 2013)
+**Why We Can't Cut Government Funding For Our Schools**, PolicyMic.com (January 2013) -->
 
-[section_title text="Non-Economics Academic Publications"]
+<!--[section_title text="Non-Economics Academic Publications"]-->
+***
+## Publications in Other Disciplines
+***
 
 **An Innovative Bed Temperature-Oriented Modeling and Robust Control of a Circulating Fluidized Bed Combustor**, with A. A. Jalali, and P. Famouri, “ Chemical Engineering Journal ([link][8])
 
