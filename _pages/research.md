@@ -30,6 +30,8 @@ post_date: 2016-02-07 17:52:36
 
 <strong>Educational Aid Policy and Inequality: The Case for Merit- and Need-Based Aid</strong>, Working Paper (<a href="http://ssrn.com/abstract=3079711">pdf</a>)
 
+<strong>Educational Aid Policy and Inequality: The Case for Merit- and Need-Based Aid</strong>, Working Paper (<a href="http://ssrn.com/abstract=3079711">pdf</a>)
+
 <strong>The Impact of the Internet on Economic Growth in Upper-Middle-Income Countries</strong>, Master’s Thesis, Department of Economics, Texas Tech University, <a href="http://archive.southernecon.org/sea2011/User/ProgramParticipantSessions.php_AuthorID=5004.html" target="_blank" rel="noopener">Presented at Southern Economic Association</a> (November 2011)
 
 [section_title text="Software"]
