@@ -13,7 +13,9 @@ post_date: 2014-08-08 21:32:08
 Global network open source healthcare, raise awareness human rights political courageous reduce carbon emissions. Transformative Action.
 
 Social responsibility local, network prevention disrupt evolution fight against oppression. Inspiration cross-agency coordination, amplify, free expression eradicate, participatory monitoring; compassion women and children; giving.
-<h2>Better Readability</h2>
+
+## Better Readability
+
 Him fowl divided. Lesser which fruitful image, first seas have the, seas grass image don't. Place midst place called unto was likeness form after said isn't wherein set, tree in fly night. One green. Created waters. Created saying created also you'll Divide.
 
 Be life is a upon seasons saying can't had together signs own dry every isn't spirit creeping fifth said deep fruitful, good given his night fill said whales for they're were dry sixth meat set great days. Second so dominion whales, moving fourth.
@@ -37,30 +39,36 @@ Green, fowl gathering first, firmament. In i. Be. Dry green said first seasons. 
 Him fowl divided. Lesser which fruitful image, first seas have the, seas grass image don't. Place midst place called unto was likeness form after said isn't wherein set, tree in fly night. One green. Created waters. Created saying created also you'll Divide.
 
 Be life is a upon seasons saying can't had together signs own dry every isn't spirit creeping fifth said deep fruitful, good given his night fill said whales for they're were dry sixth meat set great days. Second so dominion whales, moving fourth.
-<h3>Responsive Layouts</h3>
+
+### Responsive Layouts
+
 Him fowl divided. Lesser which fruitful image, first seas have the, seas grass image don't. Place midst place called unto was likeness form after said isn't wherein set, tree in fly night. One green. Created waters. Created saying created also you'll Divide.
 
 Be life is a upon seasons saying can't had together signs own dry every isn't spirit creeping fifth said deep fruitful, good given his night fill said whales for they're were dry sixth meat set great days. Second so dominion whales, moving fourth.
 
 [quote align="alignleft" name="Steve JOBS"]Stay hungry, stay foolish.[/quote]
-<h4>Flexible Grid</h4>
-Lorem ipsum dolor sit amet, <a href="#">test link</a> adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
 
-Lorem ipsum dolor sit amet, <em>emphasis</em> consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-<h4>Adaptive Design</h4>
-Lorem ipsum dolor sit amet, <a href="#">test link</a> adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+#### Flexible Grid
 
-[caption id="attachment_875" align="aligncenter" width="300"]<a href="http://themes.pixelwars.org/readme-wp/wp-content/uploads/2014/08/rabbit-full-01.jpg"><img class="wp-image-875 size-medium" src="http://themes.pixelwars.org/readme-wp/wp-content/uploads/2014/08/rabbit-full-01-300x280.jpg" alt="" width="300" height="280" /></a> hmm, that is a rabbit, holding a cup.[/caption]
+Lorem ipsum dolor sit amet, [test link][1] adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+
+Lorem ipsum dolor sit amet, *emphasis* consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+
+#### Adaptive Design
+
+Lorem ipsum dolor sit amet, [test link][1] adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+
+[caption id="attachment_875" align="aligncenter" width="300"][<img class="wp-image-875 size-medium" src="http://themes.pixelwars.org/readme-wp/wp-content/uploads/2014/08/rabbit-full-01-300x280.jpg" alt="" width="300" height="280" />][2] hmm, that is a rabbit, holding a cup.[/caption]
 
 This is some text that will wrap around the image that sits on the right side of the text that you are writing about the leaf that is there. That is, if you are writing about leaves in the first place and you want to write about this specific leaf. Lorem ipsum dolor sit amet, emphasis consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
 
-[caption id="attachment_877" align="alignleft" width="264"]<a href="http://themes.pixelwars.org/readme-wp/wp-content/uploads/2014/08/fly-big-01.jpg"><img class="wp-image-877 size-medium" src="http://themes.pixelwars.org/readme-wp/wp-content/uploads/2014/08/fly-big-01-264x300.jpg" alt="" width="264" height="300" /></a> Illustration by Marie Bergeron[/caption]
+[caption id="attachment_877" align="alignleft" width="264"][<img class="wp-image-877 size-medium" src="http://themes.pixelwars.org/readme-wp/wp-content/uploads/2014/08/fly-big-01-264x300.jpg" alt="" width="264" height="300" />][3] Illustration by Marie Bergeron[/caption]
 
 This is some text that will wrap around the image that sits on the left side of the text that you are writing about the leaf that is there. That is, if you are writing about leaves in the first place and you want to write about this specific leaf. Lorem ipsum dolor sit amet, emphasis consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-<h3>Full width images</h3>
-[full_width_image]
-<img class="alignnone size-full wp-image-838" src="http://themes.pixelwars.org/readme-wp/wp-content/uploads/2014/08/081.jpg" alt="08" width="1920" height="1280" />
-[/full_width_image]
+
+### Full width images
+
+[full_width_image] <img class="alignnone size-full wp-image-838" src="http://themes.pixelwars.org/readme-wp/wp-content/uploads/2014/08/081.jpg" alt="08" width="1920" height="1280" /> [/full_width_image]
 
 Him fowl divided. Lesser which fruitful image, first seas have the, seas grass image don't. Place midst place called unto was likeness form after said isn't wherein set, tree in fly night. One green. Created waters. Created saying created also you'll Divide.
 
@@ -72,13 +80,18 @@ Him fowl divided. Lesser which fruitful image, first seas have the, seas grass i
 
 Be life is a upon seasons saying can't had together signs own dry every isn't spirit creeping fifth said deep fruitful, good given his night fill said whales for they're were dry sixth meat set great days. Second so dominion whales, moving fourth.
 
-<hr />
+* * *
 
-<h2>Misc Stuff – abbr, pre, code, sub, sup, etc.</h2>
-Lorem <sup>superscript</sup> dolor <sub>subscript</sub> amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. <cite>cite</cite>. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. <abbr title="National Basketball Association">NBA</abbr> Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-<h2>Pre, Code Blocks</h2>
-This is an inline code block <code>index.html</code> is the main file.
-<h3>Google Syntax Prettify</h3>
+## Misc Stuff – abbr, pre, code, sub, sup, etc.
+
+Lorem <sup>superscript</sup> dolor <sub>subscript</sub> amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. <cite>cite</cite>. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. NBA Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+
+## Pre, Code Blocks
+
+This is an inline code block `index.html` is the main file.
+
+### Google Syntax Prettify
+
 <pre class="prettyprint">&lt;meta charset="utf-8" /&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"&gt;
 &lt;meta name="description" content="impressiVcard - impressiVCard Responsive HTML5 VCard Template"&gt;
@@ -87,7 +100,9 @@ This is an inline code block <code>index.html</code> is the main file.
 
 &lt;title&gt;ImpressivCard&lt;/title&gt;
 </pre>
-<h3>Google Syntax Prettify with Line Numbers</h3>
+
+### Google Syntax Prettify with Line Numbers
+
 <pre class="prettyprint linenums">/* TYPOGRAPHY */
 h1 { font-size: 2.20em; margin: 0.8em 0 0.4em 0; }
 h2 { font-size: 1.60em; margin: 1.4em 0 0.8em 0; }
@@ -96,54 +111,120 @@ h4 { font-size: 0.90em; margin: 1.0em 0; }
 h5 { font-size: 0.90em; margin: 1.0em 0 .8em 0; }
 h6 { font-size: 0.85em; margin: 1.0em 0 .8em 0; }
 </pre>
-<h2>Tables</h2>
+
+## Tables
+
 <table>
-<tbody>
-<tr>
-<th style="font-weight: 800;">CMS</th>
-<th style="font-weight: 800;">PERFORMANCE</th>
-<th style="font-weight: 800;">USABILITY</th>
-<th style="font-weight: 800;">FEATURES</th>
-</tr>
-<tr>
-<td style="color: #777777;"><b style="font-weight: bold;">Wordpress</b></td>
-<td style="color: #777777;">Good</td>
-<td style="color: #777777;">Better</td>
-<td style="color: #777777;">Good</td>
-</tr>
-<tr>
-<td style="color: #777777;"><b style="font-weight: bold;">Drupal</b></td>
-<td style="color: #777777;">Better</td>
-<td style="color: #777777;">Good</td>
-<td style="color: #777777;">Good</td>
-</tr>
-<tr>
-<td style="color: #777777;"><b style="font-weight: bold;">Joomla</b></td>
-<td style="color: #777777;">Best</td>
-<td style="color: #777777;">Best</td>
-<td style="color: #777777;">Best</td>
-</tr>
-</tbody>
+  <tbody>
+    <tr>
+      <th style="font-weight: 800">
+        CMS
+      </th>
+      
+      <th style="font-weight: 800">
+        PERFORMANCE
+      </th>
+      
+      <th style="font-weight: 800">
+        USABILITY
+      </th>
+      
+      <th style="font-weight: 800">
+        FEATURES
+      </th>
+    </tr>
+    
+    <tr>
+      <td style="color: #777777">
+        <b style="font-weight: bold">Wordpress</b>
+      </td>
+      
+      <td style="color: #777777">
+        Good
+      </td>
+      
+      <td style="color: #777777">
+        Better
+      </td>
+      
+      <td style="color: #777777">
+        Good
+      </td>
+    </tr>
+    
+    <tr>
+      <td style="color: #777777">
+        <b style="font-weight: bold">Drupal</b>
+      </td>
+      
+      <td style="color: #777777">
+        Better
+      </td>
+      
+      <td style="color: #777777">
+        Good
+      </td>
+      
+      <td style="color: #777777">
+        Good
+      </td>
+    </tr>
+    
+    <tr>
+      <td style="color: #777777">
+        <b style="font-weight: bold">Joomla</b>
+      </td>
+      
+      <td style="color: #777777">
+        Best
+      </td>
+      
+      <td style="color: #777777">
+        Best
+      </td>
+      
+      <td style="color: #777777">
+        Best
+      </td>
+    </tr>
+  </tbody>
 </table>
-<h2>Definition List</h2>
-<dl><dt>DEFINITON LIST TITLE</dt><dd>Be life is a upon seasons saying can't had together signs own dry every isn't spirit creeping fifth said deep fruitful, good given his night fill said whales for they're were dry sixth meat set great days. Second so dominion whales, moving fourth.</dd><dt>DEFINITON LIST TITLE</dt><dd>This is a definition list division.</dd><dt>DEFINITON LIST TITLE</dt><dd>This is a definition list division.</dd></dl>
-<h2>UL + OL</h2>
+
+## Definition List
+
+DEFINITON LIST TITLE
+:   Be life is a upon seasons saying can't had together signs own dry every isn't spirit creeping fifth said deep fruitful, good given his night fill said whales for they're were dry sixth meat set great days. Second so dominion whales, moving fourth.
+
+DEFINITON LIST TITLE
+:   This is a definition list division.
+
+DEFINITON LIST TITLE
+:   This is a definition list division.
+
+## UL + OL
+
 [row]
 
 [column width="4"]
-<ol>
-	<li>Web Design</li>
-	<li>JavaScript</li>
-	<li>WordPress</li>
-</ol>
+
+1.  Web Design
+2.  JavaScript
+3.  WordPress
+
 [/column]
 
 [column width="4"]
-<ul>
-	<li>Web Design</li>
-	<li>JavaScript</li>
-	<li>WordPress</li>
-</ul>
+
+*   Web Design
+*   JavaScript
+*   WordPress
+
 [/column]
 
 [/row]
+
+ [1]: #
+ [2]: http://themes.pixelwars.org/readme-wp/wp-content/uploads/2014/08/rabbit-full-01.jpg
+ [3]: http://themes.pixelwars.org/readme-wp/wp-content/uploads/2014/08/fly-big-01.jpg
+
+ *[NBA]: National Basketball Association

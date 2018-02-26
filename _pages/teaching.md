@@ -10,24 +10,28 @@ post_date: 2016-10-09 18:41:48
 ---
 [section_title text="Barnard College, Columbia University"]
 
-<strong>Introduction to Economic Reasoning</strong>, (Fall 2016), <a href="http://ahadavand.com/wp-content/uploads/2016/12/Intro-Syllabus.pdf">Syllabus</a>
+**Introduction to Economic Reasoning**, (Fall 2016), [Syllabus][1]
 
-<strong>Econometrics</strong> (Spring 2016), <a href="http://ahadavand.com/wp-content/uploads/2016/12/Econometrics-Syllabus.pdf">Syllabus</a>
+**Econometrics** (Spring 2016), [Syllabus][2]
 
-<strong>Economics of Inequality</strong> (Spring 2017), <a href="http://ahadavand.com/wp-content/uploads/2016/12/inequality-syll_16773428_4be88b512eb791edef0ff0949b8ac3588af35b5c.pdf">Syllabus</a>
+**Economics of Inequality** (Spring 2017), [Syllabus][3]
 
 [section_title text="Brooklyn College"]
 
-<strong>Elementary Macroeconomics</strong> (Fall 2012)
+**Elementary Macroeconomics** (Fall 2012)
 
-<strong>Elementary Microeconomics</strong> (Fall 2012-Spring 2016)
+**Elementary Microeconomics** (Fall 2012-Spring 2016)
 
-<strong>Graduate Econometrics</strong> (Summer 2014 &amp; 2015)
+**Graduate Econometrics** (Summer 2014 & 2015)
 
 [section_title text="Yeshiva University"]
 
-<strong>Econometrics</strong> (Sring and Fall 2015)
+**Econometrics** (Sring and Fall 2015)
 
 [section_title text="Texas Tech University"]
 
-<strong>Principles of Economics</strong> (Sring 2011)
+**Principles of Economics** (Sring 2011)
+
+ [1]: http://ahadavand.com/wp-content/uploads/2016/12/Intro-Syllabus.pdf
+ [2]: http://ahadavand.com/wp-content/uploads/2016/12/Econometrics-Syllabus.pdf
+ [3]: http://ahadavand.com/wp-content/uploads/2016/12/inequality-syll_16773428_4be88b512eb791edef0ff0949b8ac3588af35b5c.pdf
