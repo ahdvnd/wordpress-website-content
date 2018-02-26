@@ -11,45 +11,53 @@ post_date: 2016-02-07 17:52:36
 [section_title text="Work in Progress"]
 
 ## Work in Progress
+- **Analysis of Student Progress in Online Courses**, with *Jeff Leek*
 
-- Comparison of Plotting System Outputs in Beginner Analysts, with *Leslie Myint, Leah Jagger, and Jeff Leek*
+**Analysis of Student Progress in Online Courses**, with Jeff Leek
 
-<strong>Analysis of Student Progress in Online Courses</strong>, with Jeff Leek
+**Comparison of Plotting System Outputs in Beginner Analysts**, with Leslie Myint, Leah Jagger, and Jeff Leek
 
-<strong>Comparison of Plotting System Outputs in Beginner Analysts</strong>, with Leslie Myint, Leah Jagger, and Jeff Leek
-
-<strong>Misperception of Body Size as Motivated Belief</strong>, with Antonio Trujillo
+**Misperception of Body Size as Motivated Belief**, with Antonio Trujillo
 
 [section_title text="Working Papers"]
 
-<strong>Anatomy of Income Inequality in the United States: 1979-2013</strong>, <a href="http://www.lisdatacenter.org/wps/liswps/686.pdf">Job Market Paper</a>
-<ul>
- 	<li>Featured in <a href="http://www.populationassociation.org/wp-content/uploads/PAA-Winter17.rev_.pdf">PAA Affairs</a>, Population Association of America, Winter 2016</li>
-</ul>
-<strong>The Match Between College Coursework and Occupations</strong>, With Sarah Thomas, Pooya Almasi, and Orkideh Gharehgozli (<a href="https://ssrn.com/abstract=3008961">pdf</a>)
+**Anatomy of Income Inequality in the United States: 1979-2013**, [Job Market Paper][1]
 
-<strong>Misperceptions and Mismeasurements: An Analysis of Subjective Economic Inequality</strong>, Society for the Study of Economic Inequality (ECINEQ) Working Paper (<a href="http://www.ecineq.org/milano/WP/ECINEQ2017-449.pdf">pdf</a>)
+*   Featured in [PAA Affairs][2], Population Association of America, Winter 2016
 
-<strong>Gender Differences and Inequality in the U.S. Labor Market</strong>, With Sarah Thomas (<a href="http://ahadavand.com/wp-content/uploads/2017/04/Gender_Inequality__AER-2.pdf">pdf</a>)
+**The Match Between College Coursework and Occupations**, With Sarah Thomas, Pooya Almasi, and Orkideh Gharehgozli ([pdf][3])
 
-<strong>Educational Aid Policy and Inequality: The Case for Merit- and Need-Based Aid</strong>, Working Paper (<a href="http://ssrn.com/abstract=3079711">pdf</a>)
+**Misperceptions and Mismeasurements: An Analysis of Subjective Economic Inequality**, Society for the Study of Economic Inequality (ECINEQ) Working Paper ([pdf][4])
 
-<strong>The Impact of the Internet on Economic Growth in Upper-Middle-Income Countries</strong>, Master’s Thesis, Department of Economics, Texas Tech University, <a href="http://archive.southernecon.org/sea2011/User/ProgramParticipantSessions.php_AuthorID=5004.html" target="_blank" rel="noopener">Presented at Southern Economic Association</a> (November 2011)
+**Gender Differences and Inequality in the U.S. Labor Market**, With Sarah Thomas ([pdf][5])
+
+**Educational Aid Policy and Inequality: The Case for Merit- and Need-Based Aid**, Working Paper ([pdf][6])
+
+**The Impact of the Internet on Economic Growth in Upper-Middle-Income Countries**, Master’s Thesis, Department of Economics, Texas Tech University, <a href="http://archive.southernecon.org/sea2011/User/ProgramParticipantSessions.php_AuthorID=5004.html" target="_blank" rel="noopener">Presented at Southern Economic Association</a> (November 2011)
 
 [section_title text="Software"]
 
-<strong>crsra: A package for cleaning and analyzing Coursera on-demand data</strong>, with Jeff Leek (<a href="https://github.com/jhudsl/crsra">Github Repo</a>)
+**crsra: A package for cleaning and analyzing Coursera on-demand data**, with Jeff Leek ([Github Repo][7])
 
 [section_title text="Non-Academic Publications"]
 
-<strong>Immigration Reform: STEM Legislation Would Give US Economy a Much Needed Boost</strong>, (with Shahin Kaveh), PolicyMic.com (December 2011)
+**Immigration Reform: STEM Legislation Would Give US Economy a Much Needed Boost**, (with Shahin Kaveh), PolicyMic.com (December 2011)
 
-<strong>Why We Can't Cut Government Funding For Our Schools</strong>, PolicyMic.com (January 2013)
+**Why We Can't Cut Government Funding For Our Schools**, PolicyMic.com (January 2013)
 
 [section_title text="Non-Economics Academic Publications"]
 
-<strong>An Innovative Bed Temperature-Oriented Modeling and Robust Control of a Circulating Fluidized Bed Combustor</strong>, with A. A. Jalali, and P. Famouri, “ Chemical Engineering Journal (<a href="http://www.sciencedirect.com/science/article/pii/S1385894707007693">link</a>)
+**An Innovative Bed Temperature-Oriented Modeling and Robust Control of a Circulating Fluidized Bed Combustor**, with A. A. Jalali, and P. Famouri, “ Chemical Engineering Journal ([link][8])
 
-<strong>Bed Temperature Control of a Circulating Fluidized Bed Combustion System Using H∞ Algorithm</strong>, with A. A. Jalali, Proceeding of IEEE International Conference on Control, Automation and Systems, Seoul, Korea, 2007
+**Bed Temperature Control of a Circulating Fluidized Bed Combustion System Using H∞ Algorithm**, with A. A. Jalali, Proceeding of IEEE International Conference on Control, Automation and Systems, Seoul, Korea, 2007
 
-<strong>Bed Temperature Control of a Circulating Fluidized Bed Combustion System</strong>, with H. R. Pourshaghaghi, A. A. Jalali, and P. Famouri, Proceeding of IEEE International Power Engineering Conference, Singapore, 2007
+**Bed Temperature Control of a Circulating Fluidized Bed Combustion System**, with H. R. Pourshaghaghi, A. A. Jalali, and P. Famouri, Proceeding of IEEE International Power Engineering Conference, Singapore, 2007
+
+ [1]: http://www.lisdatacenter.org/wps/liswps/686.pdf
+ [2]: http://www.populationassociation.org/wp-content/uploads/PAA-Winter17.rev_.pdf
+ [3]: https://ssrn.com/abstract=3008961
+ [4]: http://www.ecineq.org/milano/WP/ECINEQ2017-449.pdf
+ [5]: http://ahadavand.com/wp-content/uploads/2017/04/Gender_Inequality__AER-2.pdf
+ [6]: http://ssrn.com/abstract=3079711
+ [7]: https://github.com/jhudsl/crsra
+ [8]: http://www.sciencedirect.com/science/article/pii/S1385894707007693
