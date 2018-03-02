@@ -45,6 +45,8 @@ post_date: 2016-02-07 17:52:36
 
 **crsra: A package for cleaning and analyzing Coursera on-demand data**, with Jeff Leek ([Github Repo][7])
 
+*   Featured in [PAA Affairs][10], Population Association of America, Winter 2016
+
 <!--[section_title text="Non-Academic Publications"]
 
 **Immigration Reform: STEM Legislation Would Give US Economy a Much Needed Boost**, (with Shahin Kaveh), PolicyMic.com (December 2011)
@@ -71,3 +73,4 @@ post_date: 2016-02-07 17:52:36
  [7]: https://github.com/jhudsl/crsra
  [8]: http://www.sciencedirect.com/science/article/pii/S1385894707007693
  [9]: https://www.yahoo.com
+ [10]: http://www.ahadavand.com
