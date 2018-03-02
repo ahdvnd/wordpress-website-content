@@ -43,7 +43,9 @@ post_date: 2016-02-07 17:52:36
 ## Software
 ***
 
-**crsra: A package for cleaning and analyzing Coursera on-demand data**, with Jeff Leek ([Github Repo][7])
+**crsra: A package for cleaning and analyzing Coursera on-demand data**, with Jeff Leek ([Github Repo][7])
+
+*   Read about the package [here][10], Paper submitted to the R Journal
 
 <!--[section_title text="Non-Academic Publications"]
 
@@ -71,3 +73,4 @@ post_date: 2016-02-07 17:52:36
  [7]: https://github.com/jhudsl/crsra
  [8]: http://www.sciencedirect.com/science/article/pii/S1385894707007693
  [9]: https://www.yahoo.com
+ [10]: https://github.com/ahdvnd/papers_crsra_package/blob/master/RJwrapper.pdf

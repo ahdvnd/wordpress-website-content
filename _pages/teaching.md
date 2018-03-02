@@ -12,7 +12,7 @@ post_date: 2016-10-09 18:41:48
 ## Barnard College, Columbia University
 ***
 
-**Introduction to Economic Reasoning**, (Fall 2016), [Syllabus][1]
+**Introduction to Economic Reasoning**, (Fall 2016), [Syllabus][1]
 
 **Econometrics** (Spring 2016), [Syllabus][2]
 
@@ -34,14 +34,14 @@ post_date: 2016-10-09 18:41:48
 ## Yeshiva University
 ***
 
-**Econometrics** (Spring and Fall 2015)
+**Econometrics** (Spring and Fall 2015)
 
 ***
 <!--[section_title text="Texas Tech University"]-->
 ## Texas Tech University
 ***
 
-**Principles of Economics** (Sring 2011)
+**Principles of Economics** (Sring 2011)
 
  [1]: http://ahadavand.com/wp-content/uploads/2016/12/Intro-Syllabus.pdf
  [2]: http://ahadavand.com/wp-content/uploads/2016/12/Econometrics-Syllabus.pdf
