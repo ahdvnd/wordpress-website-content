@@ -24,7 +24,7 @@ post_date: 2016-02-07 17:52:36
 ## Pre-prints
 ***
 
-**Anatomy of Income Inequality in the United States: 1979-2013**, [Job Market Paper][1]
+**Anatomy of Income Inequality in the United States: 1979-2013**, [LIS Working Papers][1]
 
 *   Featured in [PAA Affairs][2], Population Association of America, Winter 2016
 
@@ -43,7 +43,7 @@ post_date: 2016-02-07 17:52:36
 ## Software
 ***
 
-**crsra: A package for cleaning and analyzing Coursera on-demand data**, with Jeff Leek ([Github Repo][7])
+**crsra: A package for cleaning and analyzing Coursera on-demand data**, with Jeff Leek ([CRAN][7])
 
 *   Read the paper about the package [here][10], Submitted to the R Journal
 
@@ -70,7 +70,7 @@ post_date: 2016-02-07 17:52:36
  [4]: http://www.ecineq.org/milano/WP/ECINEQ2017-449.pdf
  [5]: http://ahadavand.com/wp-content/uploads/2017/04/Gender_Inequality__AER-2.pdf
  [6]: http://ssrn.com/abstract=3079711
- [7]: https://github.com/jhudsl/crsra
+ [7]: https://cran.r-project.org/web/packages/crsra/index.html
  [8]: http://www.sciencedirect.com/science/article/pii/S1385894707007693
  [9]: https://www.yahoo.com
  [10]: https://github.com/ahdvnd/papers_crsra_package/blob/master/RJwrapper.pdf
