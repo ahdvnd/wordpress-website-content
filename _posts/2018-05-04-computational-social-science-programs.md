@@ -36,6 +36,7 @@ Computational Social Science is a vast field and does not have a clear definitio
 *   [Institute for Applied Computational Science][24], Harvard University
 *   [Center for Computational Economics][25], University of Copenhagen
 *   [Digital and Computational Demography][26], Max Planck Institute for Demographic Research
+*   [Center for Data, Mathematical, and Computational Sciences][38], Goucher College
 *   [Computational Social Science][27], Microsoft Research
 
 ### Summer Schools in Computational Social Science
@@ -93,3 +94,4 @@ Computational Social Science is a vast field and does not have a clear definitio
  [35]: https://www.springer.com/social+sciences/journal/42001?detailsPage=editorialBoard
  [36]: https://link.springer.com/journal/10614
  [37]: https://computationalsocialscience.org/conferences/css2017-final/
+ [38]: https://www.goucher.edu/learn/academic-centers/data-mathematical-and-computational-sciences/
