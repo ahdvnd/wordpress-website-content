@@ -58,11 +58,6 @@ post_date: 2016-02-07 17:52:36
 ## Publications in Other Disciplines
 ***
 
-```r
-g <- read.delim("cgfh.csv")
-```
-
-
 **An Innovative Bed Temperature-Oriented Modeling and Robust Control of a Circulating Fluidized Bed Combustor**, with A. A. Jalali, and P. Famouri, “ Chemical Engineering Journal ([link][8])
 
 **Bed Temperature Control of a Circulating Fluidized Bed Combustion System Using H∞ Algorithm**, with A. A. Jalali, Proceeding of IEEE International Conference on Control, Automation and Systems, Seoul, Korea, 2007
