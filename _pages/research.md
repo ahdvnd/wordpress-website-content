@@ -43,7 +43,7 @@ post_date: 2016-02-07 17:52:36
 ## Software
 ***
 
-**crsra: A package for cleaning and analyzing Coursera on-demand data**, with Jeff Leek ([CRAN][7])
+**crsra: Tidying and Analyzing 'Coursera' Research Export Data**, with Jeff Leek and John Muschelli ([CRAN][7])
 
 *   Read the paper about the package [here][10], Submitted to the R Journal
 
@@ -57,6 +57,11 @@ post_date: 2016-02-07 17:52:36
 ***
 ## Publications in Other Disciplines
 ***
+
+```r
+g <- read.delim("cgfh.csv")
+```
+
 
 **An Innovative Bed Temperature-Oriented Modeling and Robust Control of a Circulating Fluidized Bed Combustor**, with A. A. Jalali, and P. Famouri, “ Chemical Engineering Journal ([link][8])
 
