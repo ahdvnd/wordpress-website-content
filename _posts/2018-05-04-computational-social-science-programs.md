@@ -10,7 +10,7 @@ published: true
 post_date: 2018-05-04 20:43:13
 ---
 Computational Social Science is a vast field and does not have a clear definition. [This video][1] might help. If I'm missing something make a pull request [here][2]. 
-### Academic Programs and Centers in Computational Social Science
+### Academic Programs and Centers in Computational Social Science and Learning Analytics
 
 *   [Center for Computational Social Science (IRiSS)][3], Stanford University
 *   [Computational Social Science Institute][4], UMass, Amherst
@@ -32,12 +32,23 @@ Computational Social Science is a vast field and does not have a clear definitio
 *   [Computational Social Science][20], Data Science and Analytics Lab, University of Washington
 *   [Center for Complex Networks and Systems Research][21], Indiana University, Bloomington
 *   [Program in Data Science for Public Policy][22], Georgetown University
-*   [Proghram in Government Analytics][23], Johns Hopkins University
+*   [Program in Government Analytics][23], Johns Hopkins University
 *   [Institute for Applied Computational Science][24], Harvard University
 *   [Center for Computational Economics][25], University of Copenhagen
 *   [Digital and Computational Demography][26], Max Planck Institute for Demographic Research
 *   [Center for Data, Mathematical, and Computational Sciences][38], Goucher College
 *   [Computational Social Science][27], Microsoft Research
+*   [Centro de Investigación en Complejidad Social][39], Universidad del Desarrollo
+*   [Social Dynamics Lab][40], Cornell University
+*   [Centre for Research in Social Simulation (cress)][41], University of Surrey
+*   [The Halıcıoğlu Data Science Institute][42], University of California, San Diego
+*   [Program in Computational Analysis & Public Policy][43], University of Chicago
+*   [Program in Urban Spatial Analytics][44], University of Pennsylvania
+*   [The Center For Urban Science And Progress (CUSP)][45], New York University
+*   [Learning Analytics Center][46], Kyushu University
+*   [Simon Institute for the Theory of Computing][47], Berkeley
+*   [Program in Economics & Computation][48], Duke University
+
 
 ### Summer Schools in Computational Social Science
 
@@ -58,7 +69,7 @@ Computational Social Science is a vast field and does not have a clear definitio
 *   [CSS Conference][37], The Computational Social Science Society of the Americas
 
  [1]: https://www.youtube.com/watch?v=kyZkptxlSA8
- [2]: https://github.com/ahdvnd/wordpress-website-content/blob/master/_posts/2018-05-05-computational-social-science-programs.md
+ [2]: https://github.com/ahdvnd/wordpress-website-content/blob/master/_posts/2018-05-04-computational-social-science-programs.md
  [3]: https://iriss.stanford.edu/css
  [4]: http://www.cssi.umass.edu/
  [5]: https://www.gesis.org/en/institute/departments/computational-social-science/
@@ -95,3 +106,13 @@ Computational Social Science is a vast field and does not have a clear definitio
  [36]: https://link.springer.com/journal/10614
  [37]: https://computationalsocialscience.org/conferences/css2017-final/
  [38]: https://www.goucher.edu/learn/academic-centers/data-mathematical-and-computational-sciences/
+ [39]: http://cics.udd.cl/
+ [40]: http://sdl.soc.cornell.edu/
+ [41]: http://cress.soc.surrey.ac.uk/web/home
+ [42]: https://datascience.ucsd.edu/
+ [43]: https://capp.uchicago.edu/
+ [44]: http://penniur.upenn.edu/instruction/graduate
+ [45]: http://cusp.nyu.edu/
+ [46]: http://lac.kyushu-u.ac.jp/e/
+ [47]: https://simons.berkeley.edu/programs/economics2015
+ [48]: https://econ.duke.edu/masters-programs/degree-programs/msec
