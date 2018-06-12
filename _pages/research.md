@@ -10,7 +10,17 @@ post_date: 2016-02-07 17:52:36
 ---
 <!-- [section_title text="Work in Progress"] -->
 
-## Work in Progress
+## Peer-Reviewed Works
+***
+
+**The Match Between College Coursework and Occupations**, Revise and resubmit, Education Economics, With Sarah Thomas, Pooya Almasi, and Orkideh Gharehgozli ([pdf][3])
+
+**Misperceptions and Mismeasurements: An Analysis of Subjective Economic Inequality**, In press, Research on Economic Inequality ([pdf][4])
+
+**Educational Aid Policy and Inequality: The Case for Merit- and Need-Based Aid**, In press, Review of Social Economy ([pdf][6])
+
+***
+## Works in Progress
 ***
 
 **Analysis of Student Progress in Online Courses**, *with Jeff Leek*
@@ -28,13 +38,7 @@ post_date: 2016-02-07 17:52:36
 
 *   Featured in [PAA Affairs][2], Population Association of America, Winter 2016
 
-**The Match Between College Coursework and Occupations**, With Sarah Thomas, Pooya Almasi, and Orkideh Gharehgozli ([pdf][3])
-
-**Misperceptions and Mismeasurements: An Analysis of Subjective Economic Inequality**, Society for the Study of Economic Inequality (ECINEQ) Working Paper ([pdf][4])
-
 **Gender Differences and Inequality in the U.S. Labor Market**, With Sarah Thomas ([pdf][5])
-
-**Educational Aid Policy and Inequality: The Case for Merit- and Need-Based Aid**, Working Paper ([pdf][6])
 
 **The Impact of the Internet on Economic Growth in Upper-Middle-Income Countries**, Master’s Thesis, Department of Economics, Texas Tech University, <a href="http://archive.southernecon.org/sea2011/User/ProgramParticipantSessions.php_AuthorID=5004.html" target="_blank" rel="noopener">Presented at Southern Economic Association</a> (November 2011)
 
