@@ -20,17 +20,6 @@ post_date: 2016-02-07 17:52:36
 **Educational Aid Policy and Inequality: The Case for Merit- and Need-Based Aid**, In press, Review of Social Economy ([pdf][6])
 
 ***
-## Works in Progress
-***
-
-**Analysis of Student Progress in Online Courses**, *with Jeff Leek*
-
-**Comparison of Plotting System Outputs in Beginner Analysts**, *with Leslie Myint, Leah Jagger, and Jeff Leek*
-
-**Misperception of Body Size as Motivated Belief**, *with Antonio Trujillo*
-
-<!--[section_title text="Working Papers"] -->
-***
 ## Pre-prints
 ***
 
@@ -40,7 +29,19 @@ post_date: 2016-02-07 17:52:36
 
 **Gender Differences and Inequality in the U.S. Labor Market**, With Sarah Thomas ([pdf][5])
 
-**The Impact of the Internet on Economic Growth in Upper-Middle-Income Countries**, Master’s Thesis, Department of Economics, Texas Tech University, <a href="http://archive.southernecon.org/sea2011/User/ProgramParticipantSessions.php_AuthorID=5004.html" target="_blank" rel="noopener">Presented at Southern Economic Association</a> (November 2011)
+***
+## Works in Progress
+***
+
+**Can MOOC programs improve student employment prospects?**, *with Ira Gooding, Jeff Leek*
+
+**Analysis of Student Progress in Online Courses**, *with Jeff Leek*
+
+**Comparison of Plotting System Outputs in Beginner Analysts**, *with Leslie Myint, Leah Jagger, and Jeff Leek*
+
+**Misperception of Body Size as Motivated Belief**, *with Antonio Trujillo*
+
+<!--[section_title text="Working Papers"] -->
 
 <!--[section_title text="Software"] -->
 ***
