@@ -49,6 +49,7 @@ post_date: 2016-02-07 17:52:36
 ***
 
 **crsra: Tidying and Analyzing 'Coursera' Research Export Data**, with Jeff Leek and John Muschelli ([CRAN][7])
+[![Rdoc](http://www.rdocumentation.org/badges/version/crsra)](http://www.rdocumentation.org/packages/crsra)
 
 *   Read the paper about the package [here][10], Submitted to the R Journal
 
