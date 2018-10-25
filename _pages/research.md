@@ -21,7 +21,7 @@ post_date: 2016-02-07 17:52:36
 
 * * *
 
-**Can MOOC programs improve student employment prospects?**, *with Ira Gooding, Jeff Leek* (l[ink][4]) **Ignorance or Motivated Beliefs: The Role of Motivated Beliefs in Self-management of Diabetes**, *with Antonio Trujillo, Larissa Jennings, Maria Amalia Pesantes, Francisco Diez Canseco, Jaime Miranda *([pdf][5]) **Anatomy of Income Inequality in the United States: 1979-2013**, [LIS Working Papers][6] 
+**Can MOOC programs improve student employment prospects?**, *with Ira Gooding, Jeff Leek* ([link][4]) **Ignorance or Motivated Beliefs: The Role of Motivated Beliefs in Self-management of Diabetes**, *with Antonio Trujillo, Larissa Jennings, Maria Amalia Pesantes, Francisco Diez Canseco, Jaime Miranda *([pdf][5]) **Anatomy of Income Inequality in the United States: 1979-2013**, [LIS Working Papers][6] 
 *   Featured in [PAA Affairs][7], Population Association of America, Winter 2016
 
 **Gender Differences and Inequality in the U.S. Labor Market**, with Sarah Thomas ([pdf][8]) 
