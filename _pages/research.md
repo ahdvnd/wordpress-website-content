@@ -14,7 +14,7 @@ post_date: 2016-02-07 17:52:36
 
 * * *
 
-**The Match Between College Coursework and Occupations**, Revise and resubmit, Education Economics, with Pooya Almasi ([link][1]) **Misperceptions and Mismeasurements: An Analysis of Subjective Economic Inequality**, In press, Research on Economic Inequality ([pdf][2]) **Educational Aid Policy and Inequality: The Case for Merit- and Need-Based Aid**, In press, Review of Social Economy ([link][3]) 
+**Relevance of Education to Occupation: A New Empirical Approach Based on College Courses**, Revise and resubmit, Education Economics, with Pooya Almasi ([link][1]) **Misperceptions and Mismeasurements: An Analysis of Subjective Economic Inequality**, In press, Research on Economic Inequality ([pdf][2]) **Educational Aid Policy and Inequality: The Case for Merit- and Need-Based Aid**, In press, Review of Social Economy ([link][3]) 
 * * *
 
 ## Pre-prints
