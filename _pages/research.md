@@ -50,7 +50,7 @@ post_date: 2016-02-07 17:52:36
 **An Innovative Bed Temperature-Oriented Modeling and Robust Control of a Circulating Fluidized Bed Combustor**, *with A. A. Jalali, and P. Famouri*, “ Chemical Engineering Journal ([link][10]) **Bed Temperature Control of a Circulating Fluidized Bed Combustion System Using H∞ Algorithm**, *with A. A. Jalali*, Proceeding of IEEE International Conference on Control, Automation and Systems, Seoul, Korea, 2007 **Bed Temperature Control of a Circulating Fluidized Bed Combustion System**, *with H. R. Pourshaghaghi, A. A. Jalali, and P. Famouri*, Proceeding of IEEE International Power Engineering Conference, Singapore, 2007
 
  [1]: http://ahadavand.com/wp-content/uploads/2018/10/JMP_hadavand_mismatching.pdf
- [2]: http://www.ecineq.org/milano/WP/ECINEQ2017-449.pdf
+ [2]: http://ahadavand.com/wp-content/uploads/2018/11/hadavand_misperceptions.pdf
  [3]: http://ssrn.com/abstract=3079711
  [4]: https://ssrn.com/abstract=3260695
  [5]: http://ahadavand.com/wp-content/uploads/2018/10/bmi_final_version.pdf
